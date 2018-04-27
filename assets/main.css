@@ -1,0 +1,33 @@
+body {
+  margin: auto; }
+
+.maintext {
+  font-size: 18px;
+  color: black;
+  width: 800px;
+  height: 200px;
+  align: center;
+  margin: auto; }
+
+.boxes {
+  font-color: white;
+  margin: 120px;
+  height: 200px;
+  width: 200px;
+  float: left; }
+
+header {
+  height: 400px;
+  background: url(/images/hero-bg.jpg) center center;
+  background-size: cover; }
+  header .herotext {
+    font-size: 20px;
+    color: white;
+    float: left;
+    width: 500px;
+    margin-left: 0.5em; }
+
+.tab {
+  display: none; }
+
+/*# sourceMappingURL=main.css.map */
